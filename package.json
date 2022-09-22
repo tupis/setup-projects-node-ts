@@ -1,0 +1,23 @@
+{
+  "name": "setup-projects-node-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tupis/setup-projects-node-ts.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tupis/setup-projects-node-ts/issues"
+  },
+  "homepage": "https://github.com/tupis/setup-projects-node-ts#readme",
+  "devDependencies": {
+    "@types/node": "^18.7.18",
+    "typescript": "^4.8.3"
+  }
+}
